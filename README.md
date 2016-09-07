@@ -1,4 +1,7 @@
-# dockerfiles-1
-A project for maintaining useful dockerfiles
+			   # dockerfiles-1
+			   A project for maintaining useful dockerfiles
 
-[![](https://images.microbadger.com/badges/image/sameerean/centos7-oraclejdk8.svg)](https://microbadger.com/images/sameerean/centos7-oraclejdk8 "Get your own image badge on microbadger.com")
+			   * [centos7-oraclejdk8] - Oracle JDK 8 on a CentOS 7 image
+
+
+			   [centos7-oraclejdk8]: <https://github.com/sameerean/dockerfiles-1/tree/master/centos7-oraclejdk8>
